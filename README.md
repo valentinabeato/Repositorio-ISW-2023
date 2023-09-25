@@ -6,15 +6,14 @@ Para el presente trabajo correspondiente a la asignatura Ingeniería y Calidad d
 
 Estructura
 La estructura física definida para el repositorio es la siguiente:
-
+```
 ISW_4K1_2023_Grupo_3
 ├── Linea_Base
 ├── Programa_Asignatura
 ├── Guías_Trabajos_Prácticos
 ├──Material_Bibliografico
 ├──Material_Complementario
-│   ├── Toma_Nota_Teorico
-│   ├── Toma_Nota_Practico
+│   ├── Toma_Nota_Parcial_X
 ├──Presentaciones
 │   ├── Primer_Parcial
 │   ├── Segundo_Parcial
@@ -27,7 +26,7 @@ ISW_4K1_2023_Grupo_3
 ├──Resúmenes
 │   ├── Parcial_X
 ├── Readme
-
+```
 
 
 
