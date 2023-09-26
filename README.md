@@ -35,6 +35,17 @@ Se definirá una nueva línea base para cada examen parcial de la materia luego 
 
 Se decidió este criterio ya que de esta forma definimos un punto de avance significativo en el progreso del aprendizaje de la asignatura, siendo un momento adecuado para el establecimiento de una línea base estable. A partir de esta línea base, se actualizará el contenido hasta llegar a otra línea base estable luego de rendir otro parcial.
 
+## Reglas de Nombrado de los Ítems de Configuración
 
-
+| Nombre del Ítem de Configuración | Reglas de Nombrado | Ubicación |
+|----------------------------------|--------------------|-----------|
+| Consigna de Trabajo Práctico     | Consigna_TP <Número de TC>.pdf                | -                                             |
+| Presentación de Clases           | PRES_\<Nro-Presentación>_\<Tema>.pdf          | /Presentaciones/X_Parcial                     |
+| Resolucion trabajos prácticos    | TP_\<Nro-TP>_\<Tema>.docx                       | /Trabajos_Practicos                           |
+| Resúmenes                        | RES_\<ParcialX>_\<Titulo>.pdf                   | /Resumenes                                    |
+| Bibliografía                     | BIBLIO_\<Titulo>\.pdf                           | /Material_Bibliografico                       |
+| Toma de notas                    | NOTAS_\<ParcialX>_\<Integrante>.docx | /Material_Complementario/Toma_Notas_Parcial_X |
+| Trabajos conceptuales            | TC_\<Titulo>.docx o .pdf o .pptx               | /Trabajos_Conceptuales                        |
+| Template Prácticos               | TEMPLATE_\<Titulo>.docx                        | /Templates_Practicos                          |
+| Guias de trabajos practicos      | GUIA_\<Titulo>.pdf                             | /Guias_Trabajos_Practicos                     | 
 
