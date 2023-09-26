@@ -9,7 +9,7 @@ Para el presente trabajo correspondiente a la asignatura Ingeniería y Calidad d
 
 La estructura física definida para el repositorio es la siguiente:
 ```
-ISW_4K1_2023_Grupo_3
+Repositorio-ISW-G3-2023
 ├── Linea_Base
 ├── Programa_Asignatura
 ├── Guías_Trabajos_Prácticos
