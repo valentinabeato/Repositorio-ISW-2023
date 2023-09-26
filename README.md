@@ -36,6 +36,7 @@ ISW_4K1_2023_Grupo_3
 
 | Nombre del Ítem de Configuración | Reglas de Nombrado | Ubicación |
 |----------------------------------|--------------------|-----------|
+| Consigna de Trabajo Práctico     | Consigna_TP <Nro-TP>.pdf                      | /Trabajos_Practicos                     |
 | Presentación de Clases           | PRES_\<Nro-Presentación>_\<Tema>.pdf          | /Presentaciones/X_Parcial                     |
 | Resolucion trabajos prácticos    | TP_\<Nro-TP>_\<Tema>.docx                       | /Trabajos_Practicos                           |
 | Resúmenes                        | RES_\<ParcialX>_\<Titulo>.pdf                   | /Resumenes                                    |
