@@ -49,3 +49,6 @@ Se decidió este criterio ya que de esta forma definimos un punto de avance sign
 | Template Prácticos               | TEMPLATE_\<Titulo>.docx                        | /Templates_Practicos                          |
 | Guias de trabajos practicos      | GUIA_\<Titulo>.pdf                             | /Guias_Trabajos_Practicos                     | 
 
+## Conclusión
+
+Por medio del presente trabajo, logramos poner en práctica los conceptos adquiridos en clases sobre la Gestión de la Configuración, aplicándolos en la construcción de un repositorio de configuración. Esta práctica nos permitió apreciar la importancia y la complejidad que puede conllevar la gestión de un repositorio, la cual nos llevó a tomar decisiones similares a las que podríamos enfrentarnos en una situación problemática real, tales como definir una línea base adecuada, una estructura que nos permita organizar el contenido eficientemente, o reglas de nombrado que permitan mantener la consistencia de la configuración.
