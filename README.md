@@ -29,6 +29,11 @@ ISW_4K1_2023_Grupo_3
 ├── Readme
 ```
 
+## Linea Base
+
+Se definirá una nueva línea base para cada examen parcial de la materia luego de rendirlo. 
+
+Se decidió este criterio ya que de esta forma definimos un punto de avance significativo en el progreso del aprendizaje de la asignatura, siendo un momento adecuado para el establecimiento de una línea base estable. A partir de esta línea base, se actualizará el contenido hasta llegar a otra línea base estable luego de rendir otro parcial.
 
 
 
